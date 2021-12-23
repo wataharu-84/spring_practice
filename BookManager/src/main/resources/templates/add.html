@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="header::head(~{::title})">
+	<title>書籍情報登録</title>
+</head>
+
+<body>
+	<header th:replace="header::header"></header>
+	<div>
+		<form th:action="@{/create}" th:object="${bookForm}" method="POST">
+			
+			<!-- formフラグメントを挿入
+			<div th:insert="form::form"></div>　-->
+			
+			<button type="submit">登録</button>
+		</form>
+	</div>
+</body>
+</html>
