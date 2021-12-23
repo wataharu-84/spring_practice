@@ -14,4 +14,4 @@ Spring Boot のコードを試験的にアップしています。
 
 # License
 
-"spring" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"spring_test" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
