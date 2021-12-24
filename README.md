@@ -1,4 +1,4 @@
-# spring_test
+# spring_practice
 
 Git と GitHub の学習の一環です。
 Spring Boot のコードを試験的にアップしています。
@@ -14,4 +14,4 @@ Spring Boot のコードを試験的にアップしています。
 
 # License
 
-"spring_test" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"spring_practice" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
