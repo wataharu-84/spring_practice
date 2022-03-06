@@ -1,11 +1,11 @@
 # spring_practice
 
 Git と GitHub の学習の一環です。
-Spring Boot のコードを試験的にアップしています。
+Spring Boot での開発の練習をアップしています。
 
 # Contents
 
-- Bookmanager（＜中断＞模写、書籍情報管理システム）<br>
+- BookManagement（模写、書籍情報管理システム）<br>
 - TestScraping（＜作成中＞ニュースサイトのスクレイピング）<br>
 
 # Author
