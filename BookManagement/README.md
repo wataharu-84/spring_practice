@@ -1,6 +1,7 @@
 # BookManagement
 
-Javaのジュレームワークを使用したアプリ開発の練習。
+Javaの復習用に作成。
+Javaのフレームワークを使用したアプリ開発の練習。
 Spring Bootで書籍情報管理システムを作る。
 
 参考：https://loglog.xyz/springboot_tutorial
