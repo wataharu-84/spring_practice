@@ -5,7 +5,6 @@ Spring Boot での開発の練習をアップしています。
 
 # Contents
 
-- BookManagement（模写、書籍情報管理システム）<br>
 - TestScraping（ニュースサイトのスクレイピング）<br>
 
 # Author
